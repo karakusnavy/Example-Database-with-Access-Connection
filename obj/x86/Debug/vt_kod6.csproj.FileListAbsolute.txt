@@ -1,0 +1,15 @@
+E:\Samet Karakuş\vt_kod6\vt_kod6\bin\Debug\vt_kod6.exe
+E:\Samet Karakuş\vt_kod6\vt_kod6\bin\Debug\vt_kod6.pdb
+E:\Samet Karakuş\vt_kod6\vt_kod6\obj\x86\Debug\vt_kod6.Form1.resources
+E:\Samet Karakuş\vt_kod6\vt_kod6\obj\x86\Debug\vt_kod6.Properties.Resources.resources
+E:\Samet Karakuş\vt_kod6\vt_kod6\obj\x86\Debug\vt_kod6.csproj.GenerateResource.Cache
+E:\Samet Karakuş\vt_kod6\vt_kod6\obj\x86\Debug\vt_kod6.exe
+E:\Samet Karakuş\vt_kod6\vt_kod6\obj\x86\Debug\vt_kod6.pdb
+F:\e\Samet Karakuş\vt_kod6\vt_kod6\obj\x86\Debug\vt_kod6.exe
+F:\e\Samet Karakuş\vt_kod6\vt_kod6\obj\x86\Debug\vt_kod6.pdb
+F:\e\Samet Karakuş\vt_kod6\vt_kod6\bin\Debug\vt_kod6.exe
+F:\e\Samet Karakuş\vt_kod6\vt_kod6\bin\Debug\vt_kod6.pdb
+F:\e\Samet Karakuş\vt_kod6\vt_kod6\obj\x86\Debug\vt_kod6.csprojResolveAssemblyReference.cache
+F:\e\Samet Karakuş\vt_kod6\vt_kod6\obj\x86\Debug\vt_kod6.Form1.resources
+F:\e\Samet Karakuş\vt_kod6\vt_kod6\obj\x86\Debug\vt_kod6.Properties.Resources.resources
+F:\e\Samet Karakuş\vt_kod6\vt_kod6\obj\x86\Debug\vt_kod6.csproj.GenerateResource.Cache
